@@ -38,7 +38,7 @@ Draw conditions</li>
     <li>The reset button allows restarting the game at any time</li>
   </ul>
 <h1>📂 Project Structure</h1>
-<p>tic-tac-toe/<br>
+<p>Tic-Tac-Toe-Game/<br>
 │<br>
 ├── index.html        # Main HTML file<br>
 ├── style.css         # Styling<br>

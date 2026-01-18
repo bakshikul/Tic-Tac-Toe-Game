@@ -54,7 +54,7 @@ Draw conditions</li>
   <li>Basic game state management</li>
 </ul>
 <h1>🤝 Contributing</h1>
-  <p>Contributions are welcome.</p><br>
+  <p>Contributions are welcome.</p>
 <ol>
   <li>Fork the repository</li>
   <li>Create a new branch (feature/new-feature)</li>

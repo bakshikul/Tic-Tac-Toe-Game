@@ -53,8 +53,19 @@ Draw conditions</li>
   <li>JavaScript conditional logic</li>
   <li>Basic game state management</li>
 </ul>
-
-
+<h1>🤝 Contributing</h1>
+  <p>Contributions are welcome.</p><br>
+<ol>
+  <li>Fork the repository</li>
+  <li>Create a new branch (feature/new-feature)</li>
+  <li>Commit your changes</li>
+  <li>Open a Pull Request</li>
+</ol>
+<h1>📄 License</h1>
+<p>This project is licensed under the MIT License – feel free to use, modify, and distribute.</p>
+<h1>👤 Author</h1>
+<p>Kul Bakshi<br>
+Student | Web Development Enthusiast</p>
 
 
 

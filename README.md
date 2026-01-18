@@ -3,11 +3,11 @@
 <h1>📌 Features</h1>
 <ul>
 <li>Two-player gameplay (Player X vs Player O)</li>
-<ls>Real-time win and draw detection</li>
-<ls>Interactive and responsive UI</li>
-<ls>Game reset functionality</li>
-<ls>Clean and minimal design</li>
-<ls>Works on desktop and mobile browsers</li>
+<li>Real-time win and draw detection</li>
+<li>Interactive and responsive UI</li>
+<li>Game reset functionality</li>
+<li>Clean and minimal design</li>
+<li>Works on desktop and mobile browsers</li>
 </ul>
 <h1>🛠️ Tech Stack</h1>
 <ol>
